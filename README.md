@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Engineer — Laravel/PHP • REST API  • Linux Servers • Git • CI/CD Pipelines
-
+Software Engineer with 4+ years of experience building scalable B2B platforms and e-commerce systems. Passionate about clean code, efficient APIs, and high-performance applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-srour) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmaan.srour@gmail.com) 
